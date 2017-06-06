@@ -1,5 +1,5 @@
 # my-space.com
-<!doctype html><html dir="rtl" lang="ar"><head><title>تعلم البرمجة بسهولة وبساطة</title><meta charset="utf-8">
+<htm><head><title>تعلم البرمجة بسهولة وبساطة</title><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <meta name="description" content="موقع بسيط لتعلم برمجة الكمبيوتر">
